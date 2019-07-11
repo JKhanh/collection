@@ -1,15 +1,15 @@
 package com.k001.clt;
 
-public class Human {
+public class Human1 {
     private String name;
     private int age;
     private String place;
 
-    public Human(){
+    public Human1(){
 
     };
 
-    public Human(String name, int age, String place){
+    public Human1(String name, int age, String place){
         super();
         this.name = name;
         this.age = age;
